@@ -9,4 +9,4 @@ You can submit a feedback via the `/feedback` command, opening an Issue on GitHu
 
 ## Current Status
 
-✅ **All feedback has been implemented!**
+- @pilot2254: instead of putting channel IDs into .env . Let's just put webhooks. Those events are not sent every day
